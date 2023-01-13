@@ -1,0 +1,1 @@
+Backend application created with Node JS and Postgresql to manage transfers in a bank.
